@@ -6,3 +6,5 @@ Create a new branch isquick
 test branch
 
 Create a new branch is quick and simple
+
+Git is nice tool
