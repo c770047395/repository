@@ -7,4 +7,4 @@ test branch
 
 Create a new branch is quick and simple
 
-Git is nice tool
+Git is a nice tool
